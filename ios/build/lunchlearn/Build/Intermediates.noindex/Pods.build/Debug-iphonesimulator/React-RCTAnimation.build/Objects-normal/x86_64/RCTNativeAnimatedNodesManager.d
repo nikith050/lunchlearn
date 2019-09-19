@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/admin/Desktop/projects/lunchlearn/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/admin/Desktop/projects/lunchlearn/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
